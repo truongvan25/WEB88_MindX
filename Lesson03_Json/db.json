@@ -1,0 +1,114 @@
+{
+  "users": [
+    {
+      "id": "US001",
+      "userName": "MindX"
+    },
+    {
+      "id": "US002",
+      "useName": "Nobi Nobita"
+    },
+    {
+      "id": "US003",
+      "useName": "Ronaldo"
+    },
+    {
+      "id": "US004",
+      "useName": "Messi"
+    },
+    {
+      "id": "US005",
+      "userName": "Nguyen Van A"
+    },
+    {
+      "id": "US006",
+      "userName": "Nguyen Van B"
+    },
+    {
+      "id": "US007",
+      "userName": "Trương Thị Vân"
+    },
+    {
+      "id": "US0.4678953251099067",
+      "userName": "Châu Nhật Tăng"
+    },
+    {
+      "id": "US676",
+      "userName": "Trương Quang Trung"
+    }
+  ],
+  "posts": [
+    {
+      "id": "PS001",
+      "content": "Chuc ban mot ngay vui ve!",
+      "userId": "US001",
+      "views": 100
+    },
+    {
+      "id": "PS002",
+      "content": "Learning Frontend courses",
+      "userId": "US004",
+      "views": 200
+    },
+    {
+      "content": "Nội dung này được cập nhật lần 3",
+      "id": "PS003"
+    },
+    {
+      "id": "PS004",
+      "content": "Learning AI courses",
+      "userId": "US003",
+      "views": 37
+    },
+    {
+      "id": "PS005",
+      "content": "Learning Agile/Scrum",
+      "userId": "US002",
+      "views": 50
+    },
+    {
+      "views": 101,
+      "content": "Learning JWT 20 April 2025",
+      "userId": "US001",
+      "id": "PS006"
+    },
+    {
+      "id": "PS007",
+      "content": "Learning NodeJS",
+      "userId": "US002",
+      "views": 115
+    },
+    {
+      "id": "PS252",
+      "content": "Cấu trúc và kiến tạo máy tính!",
+      "userId": "US002",
+      "views": 200
+    },
+    {
+      "id": "PS477",
+      "content": "Cấu trúc và kiến tạo máy tính!",
+      "userId": "US002",
+      "views": 200
+    }
+  ],
+  "comments": [
+    {
+      "id": "CMT001",
+      "postId": "PS001",
+      "content": "Bài học này rất ý nghĩa! Cảm ơn MindX!",
+      "userId": "US002"
+    },
+    {
+      "id": "CMT001",
+      "postId": "PS002",
+      "content": "Bài học này rất ý nghĩa!",
+      "userId": "US004"
+    },
+    {
+      "id": "CMT3613",
+      "postId": "PS002",
+      "userId": "US004",
+      "content": "Lại cập nhật nữa nha!"
+    }
+  ]
+}

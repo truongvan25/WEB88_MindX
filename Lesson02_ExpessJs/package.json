@@ -1,0 +1,26 @@
+{
+  "name": "lesson2-express",
+  "version": "1.0.0",
+  "description": "foundation of expessjs",
+  "keywords": [
+    "express",
+    "js",
+    "javascript",
+    "restfulAPI"
+  ],
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "serverhw.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./serverhw.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "uuid": "^11.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}

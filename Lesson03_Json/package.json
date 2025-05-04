@@ -1,0 +1,23 @@
+{
+  "name": "lesson03_json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "concurrently \"json-server --watch ./db.json\" \"nodemon index.js\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "express": "^5.1.0",
+    "json-server": "^1.0.0-beta.3",
+    "nodemon": "^3.1.9",
+    "uuid": "^11.1.0"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}
